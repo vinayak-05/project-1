@@ -1,7 +1,7 @@
 const text = "Hello, My name is Vinayak!\nA programmer.";
 const typingSpeed = 100; // Speed for typing
 const deletingSpeed = 50; // Speed for deleting
-const delayBetweenCycles = 1000; // Delay before retyping starts
+const delayBetweenCycles = 1050; // Delay before retyping starts
 const typingText = document.getElementById("typing-text");
 
 let index = 0;
